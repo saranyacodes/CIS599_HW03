@@ -16,8 +16,11 @@ I was inspired by these two pictures to create this scene. I wanted to render a 
 I was inspired by various shadertoys to create this as well. 
 
 I was inspired by this shadertoy to create the sky: https://www.shadertoy.com/view/MlSSR1
+
 I was inspired by these shadertoys to create the reflective water: 
+
 https://www.shadertoy.com/view/MsB3WR
+
 https://www.shadertoy.com/view/wdXfRH
 
 For this environment setpiece homework, I made use of various techinques to create the scene. I used signed distance functions referenced from IQ's website: https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
